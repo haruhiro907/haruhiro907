@@ -1,0 +1,27 @@
+﻿
+name: Contribution Snake
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: haruhiro907
+          svg_out_path: output/github-contribution-grid-snake.svg
+          svg_out_path_dark: output/github-contribution-grid-snake-dark.svg
+
+      - name: Commit and push SVG files
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add output/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update snake SVG" && git push origin HEAD:output)
