@@ -75,6 +75,6 @@ I'm passionate about AI, data science, and software development, and I like buil
 ## 📫 Contact
 
 - GitHub: [@haruhiro907](https://github.com/haruhiro907)
-- University: Okayama Prefectural University
+- X: [@haru16429698946](https://x.com/haru16429698946)
 
 <p align="center">⭐️ Thanks for stopping by!</p>
