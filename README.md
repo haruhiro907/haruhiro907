@@ -65,8 +65,8 @@ I'm passionate about AI, data science, and software development, and I like buil
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haruhiro907/haruhiro907/output/github-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/haruhiro907/haruhiro907/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haruhiro907/haruhiro907/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/haruhiro907/haruhiro907/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 

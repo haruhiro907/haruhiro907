@@ -8,12 +8,11 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
-permissions:
-  contents: write
-
 jobs:
   snake:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Generate Snake
         uses: Platane/snk@v3
