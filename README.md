@@ -15,6 +15,8 @@ I'm passionate about AI, data science, and software development, and I like buil
 
 | Project | Description | Stack | Status |
 | --- | --- | --- | --- |
+| **[Quiet Camera](https://github.com/haruhiro907/quietcamera)** | An iPhone-style camera app for my Android phone (OPPO Reno7 A) — designed and built in 2 days together with an AI agent | Kotlin · Jetpack Compose · CameraX | ✅ Released (v1.1) |
+| **[TASUKU](https://tasuku-77c63.web.app)** | Evacuation & mutual-support app built for DevFest 2026 with team たね | React · TypeScript · FastAPI · Firebase | 🏆 Submitted — live demo |
 | **9路盤 ONE MISS Board** | A game project | – | 🎮 In progress |
 | **tsurarenai** | A Chrome extension that hides purchase-triggering information (prices, discounts) to promote mindful shopping | – | 💡 Concept phase |
 
@@ -50,8 +52,14 @@ I'm passionate about AI, data science, and software development, and I like buil
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
