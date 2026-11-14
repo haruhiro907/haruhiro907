@@ -21,11 +21,11 @@ I'm passionate about AI, data science, and software development, and I like buil
 
 ---
 
-## 📺 発信
+## 📺 Content
 
-個人開発で作ったものや学んだことを発信しています。
+I share what I build and learn:
 
-- YouTube: [ずんだもん解説動画](https://youtu.be/hUqe6qkpblU)
+- YouTube: [Dev videos narrated by Zundamon](https://youtu.be/hUqe6qkpblU)
 - Qiita: [@haruhiro907](https://qiita.com/haruhiro907)
 
 ---
