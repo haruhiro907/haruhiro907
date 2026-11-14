@@ -16,17 +16,9 @@ I'm passionate about AI, data science, and software development, and I like buil
 | Project | Description | Stack | Status |
 | --- | --- | --- | --- |
 | **[Quiet Camera](https://github.com/haruhiro907/quietcamera)** | An iPhone-style camera app for my Android phone (OPPO Reno7 A) — designed and built in 2 days together with an AI agent | Kotlin · Jetpack Compose · CameraX | ✅ Released (v1.1) |
-| **[TASUKU](https://tasuku-77c63.web.app)** | Evacuation & mutual-support app built for DevFest 2026 with team たね | React · TypeScript · FastAPI · Firebase | 🏆 Submitted — live demo |
-| **[9路盤 ONE MISS Board](https://github.com/haruhiro907/onemissboard)** | A web app for recording and sharing 9×9 Go games — post games from SGF or by tapping the board, replay them move by move, and discuss the one move you regret | JavaScript · Firebase (Firestore / Auth) | 🎤 Presented at 技育展 |
+| **[TASUKU](https://ktaisei.github.io/official)** | Evacuation & mutual-support app built for DevFest 2026 with team たね — built together with [@KTaisei](https://github.com/KTaisei), thank you! | React · TypeScript · FastAPI · Firebase | 🏆 Submitted |
+| **[9路盤 ONE MISS Board](https://igo-9roban-onemiss.netlify.app/)** | A web app for recording and sharing 9×9 Go games — post games from SGF or by tapping the board, replay them move by move, and discuss the one move you regret | JavaScript · Firebase (Firestore / Auth) | 🎤 Presented at 技育展 |
 
----
-
-## 📺 Content
-
-I share what I build and learn:
-
-- YouTube: [Dev videos narrated by Zundamon](https://youtu.be/hUqe6qkpblU)
-- Qiita: [@haruhiro907](https://qiita.com/haruhiro907)
 
 ---
 
@@ -93,6 +85,6 @@ I share what I build and learn:
 - GitHub: [@haruhiro907](https://github.com/haruhiro907)
 - X: [@haru16429698946](https://x.com/haru16429698946)
 - Qiita: [@haruhiro907](https://qiita.com/haruhiro907)
-- YouTube: 個人開発の解説動画を投稿中（[最新の動画はこちら](https://youtu.be/hUqe6qkpblU)）
+- YouTube: Personal development videos ([latest video](https://youtu.be/hUqe6qkpblU))
 
 <p align="center">⭐️ Thanks for stopping by!</p>
