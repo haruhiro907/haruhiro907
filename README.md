@@ -17,8 +17,7 @@ I'm passionate about AI, data science, and software development, and I like buil
 | --- | --- | --- | --- |
 | **[Quiet Camera](https://github.com/haruhiro907/quietcamera)** | An iPhone-style camera app for my Android phone (OPPO Reno7 A) — designed and built in 2 days together with an AI agent | Kotlin · Jetpack Compose · CameraX | ✅ Released (v1.1) |
 | **[TASUKU](https://tasuku-77c63.web.app)** | Evacuation & mutual-support app built for DevFest 2026 with team たね | React · TypeScript · FastAPI · Firebase | 🏆 Submitted — live demo |
-| **9路盤 ONE MISS Board** | A game project | – | 🎮 In progress |
-| **tsurarenai** | A Chrome extension that hides purchase-triggering information (prices, discounts) to promote mindful shopping | – | 💡 Concept phase |
+| **9路盤 ONE MISS Board** | A game project | – | 🎤 Presented at 技育展 |
 
 ---
 
@@ -68,8 +67,8 @@ I'm passionate about AI, data science, and software development, and I like buil
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haruhiro907&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruhiro907&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haruhiro907&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haruhiro907&theme=default" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -77,7 +76,7 @@ I'm passionate about AI, data science, and software development, and I like buil
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haruhiro907&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haruhiro907&theme=default" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
