@@ -17,7 +17,7 @@ I'm passionate about AI, data science, and software development, and I like buil
 | --- | --- | --- | --- |
 | **[Quiet Camera](https://github.com/haruhiro907/quietcamera)** | An iPhone-style camera app for my Android phone (OPPO Reno7 A) — designed and built in 2 days together with an AI agent | Kotlin · Jetpack Compose · CameraX | ✅ Released (v1.1) |
 | **[TASUKU](https://tasuku-77c63.web.app)** | Evacuation & mutual-support app built for DevFest 2026 with team たね | React · TypeScript · FastAPI · Firebase | 🏆 Submitted — live demo |
-| **[9路盤 ONE MISS Board](https://github.com/haruhiro907/onemissboard)** | A game project | – | 🎤 Presented at 技育展 |
+| **[9路盤 ONE MISS Board](https://github.com/haruhiro907/onemissboard)** | A web app for recording and sharing 9×9 Go games — post games from SGF or by tapping the board, replay them move by move, and discuss the one move you regret | JavaScript · Firebase (Firestore / Auth) | 🎤 Presented at 技育展 |
 
 ---
 
