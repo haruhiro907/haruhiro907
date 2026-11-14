@@ -20,6 +20,15 @@ I'm passionate about AI, data science, and software development, and I like buil
 
 ---
 
+## 📺 YouTube — 個人開発の発信
+
+個人開発で作ったものや学んだことを、ずんだもんのナレーション付き解説動画で YouTube に投稿しています（チャンネルアイコンもずんだもんです）。
+
+- 🎥 [AndroidなのにiPhoneカメラ！？ 2日でカメラアプリを作る！！](https://youtu.be/hUqe6qkpblU) — 自作 Android カメラアプリ「Quiet Camera」の紹介動画
+- ✍️ 開発記録は [Qiita](https://qiita.com/haruhiro907/items/2416f995db30df622e60) にも書いています
+
+---
+
 ## 📚 Currently Learning
 
 - **CS50x** – Introduction to Computer Science
@@ -76,5 +85,7 @@ I'm passionate about AI, data science, and software development, and I like buil
 
 - GitHub: [@haruhiro907](https://github.com/haruhiro907)
 - X: [@haru16429698946](https://x.com/haru16429698946)
+- Qiita: [@haruhiro907](https://qiita.com/haruhiro907)
+- YouTube: 個人開発の解説動画を投稿中（[最新の動画はこちら](https://youtu.be/hUqe6qkpblU)）
 
 <p align="center">⭐️ Thanks for stopping by!</p>
