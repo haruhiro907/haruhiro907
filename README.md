@@ -17,16 +17,16 @@ I'm passionate about AI, data science, and software development, and I like buil
 | --- | --- | --- | --- |
 | **[Quiet Camera](https://github.com/haruhiro907/quietcamera)** | An iPhone-style camera app for my Android phone (OPPO Reno7 A) — designed and built in 2 days together with an AI agent | Kotlin · Jetpack Compose · CameraX | ✅ Released (v1.1) |
 | **[TASUKU](https://tasuku-77c63.web.app)** | Evacuation & mutual-support app built for DevFest 2026 with team たね | React · TypeScript · FastAPI · Firebase | 🏆 Submitted — live demo |
-| **9路盤 ONE MISS Board** | A game project | – | 🎤 Presented at 技育展 |
+| **[9路盤 ONE MISS Board](https://github.com/haruhiro907/onemissboard)** | A game project | – | 🎤 Presented at 技育展 |
 
 ---
 
-## 📺 YouTube — 個人開発の発信
+## 📺 発信
 
-個人開発で作ったものや学んだことを、ずんだもんのナレーション付き解説動画で YouTube に投稿しています（チャンネルアイコンもずんだもんです）。
+個人開発で作ったものや学んだことを発信しています。
 
-- 🎥 [AndroidなのにiPhoneカメラ！？ 2日でカメラアプリを作る！！](https://youtu.be/hUqe6qkpblU) — 自作 Android カメラアプリ「Quiet Camera」の紹介動画
-- ✍️ 開発記録は [Qiita](https://qiita.com/haruhiro907/items/2416f995db30df622e60) にも書いています
+- YouTube: [ずんだもん解説動画](https://youtu.be/hUqe6qkpblU)
+- Qiita: [@haruhiro907](https://qiita.com/haruhiro907)
 
 ---
 
