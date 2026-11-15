@@ -9,6 +9,8 @@
 I'm a 1st-year university student studying Information Science at Okayama Prefectural University.
 I'm passionate about AI, data science, and software development, and I like building projects that apply what I learn to real-world problems.
 
+🌐 **Portfolio website:** [haruhiroportfolio.vercel.app](https://haruhiroportfolio.vercel.app/) — a single-page site introducing me and my projects, with a Spotify playlist of what I'm listening to built in.
+
 ---
 
 ## 🚀 Projects
